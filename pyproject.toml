@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "my-personal-page"
+version = "0.1.0"
+description = ""
+authors = ["aagustinconti <aagustinconti@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mkdocs = "^1.5.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
