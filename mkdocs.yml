@@ -1,4 +1,12 @@
 site_name: 'Agustín Aguilera Conti | @aagustinconti'
+site_description: 'As a recent graduate with a degree in Telecommunications Engineering, I combine my technical experience in telecommunications with a growing interest in Data Science, Machine Learning, and DevOps. I possess proficient skills in Python and system management, along with a solid understanding of IP networks. I am a proactive learner, eager to expand my skills and experiences. I have demonstrated exceptional teamwork and responsibility, and I am keen to contribute to innovative projects while absorbing knowledge from experienced professionals.' 
+site_author: 'Agustín Aguilera Conti | @aagustinconti'
+site_keywords: 'MLOps, Machine Learning, DevOps, Engineer, Engineering, Telecommunications'
+extra:
+  meta:
+    author: 'Agustín Aguilera Conti | @aagustinconti'
+    description: 'As a recent graduate with a degree in Telecommunications Engineering, I combine my technical experience in telecommunications with a growing interest in Data Science, Machine Learning, and DevOps. I possess proficient skills in Python and system management, along with a solid understanding of IP networks. I am a proactive learner, eager to expand my skills and experiences. I have demonstrated exceptional teamwork and responsibility, and I am keen to contribute to innovative projects while absorbing knowledge from experienced professionals.'
+    keywords: 'MLOps, Machine Learning, DevOps, Engineer, Engineering, Telecommunications'
 site_url: https://aagustinconti.com.ar
 repo_url: https://github.com/aagustinconti/my_personal_page
 repo_name: aagustinconti/my_personal_page
