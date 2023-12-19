@@ -7,17 +7,18 @@ website: www.aagustinconti.com.ar
 linkedin: linkedin.com/in/agustinconti
 
 summary: >
-  As an enthusiastic Telecommunications Engineering student, I integrate my technical
-  expertise in telecommunications with a growing passion for Data Science, Machine
-  Learning, and DevOps. Proficient in Python, systems administration, and with a solid
-  understanding of IP networks. I'm a proactive learner, eager to acquire new skills
-  and experiences. I have demonstrated teamwork and responsibility, and I'm keen on
-  contributing to innovative projects while learning from experienced professionals.
+  As a recent graduate with a degree in Telecommunications Engineering, I combine my technical
+  experience in telecommunications with a growing interest in Data Science, Machine
+  Learning, and DevOps. I possess proficient skills in Python and system management, along
+  with a solid understanding of IP networks. I am a proactive learner, eager to expand my
+  skills and experiences. I have demonstrated exceptional teamwork and responsibility, and
+  I am keen to contribute to innovative projects while absorbing knowledge from
+  experienced professionals.
 
 professional_experience:
   - title: MLOps Engineer - Professional Internship
     company: Universidad Nacional de Río Cuarto
-    dates: Sep 2023 - Present
+    dates: Sep 2023 - Dec 2023
     location: Río Cuarto, Córdoba, Argentina (Remote)
     description: >
       During my internship at GCID (Data Science Research Group), I am
@@ -60,9 +61,9 @@ experience:
       TensorFlow for model generation and optimization.
 
 education:
-  degree: Bachelor's Degree in Telecommunications Engineering (In Progress)
+  degree: Bachelor's Degree in Telecommunications Engineering
   university: National University of Río Cuarto (UNRC)
-  dates: March 2017 - Present
+  dates: March 2017 - December 2023
   specialization: Specialization in Data Services and Multimedia Systems, with a
     focus on Radio Communications and Telecommunications.
 
