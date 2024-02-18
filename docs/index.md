@@ -3,8 +3,8 @@
 ```yaml
 name: AGUILERA CONTI, AGUSTÍN
 email: mail@aagustinconti.com.ar
-website: www.aagustinconti.com.ar
-linkedin: linkedin.com/in/agustinconti
+website: https://aagustinconti.com.ar
+linkedin: https://linkedin.com/in/aagustinconti
 
 summary: >
   As a recent graduate with a degree in Telecommunications Engineering, I combine my technical
