@@ -7,15 +7,27 @@ website: https://aagustinconti.com.ar
 linkedin: https://linkedin.com/in/aagustinconti
 
 summary: >
-  As a recent graduate with a degree in Telecommunications Engineering, I combine my technical
-  experience in telecommunications with a growing interest in Data Science, Machine
-  Learning, and DevOps. I possess proficient skills in Python and system management, along
-  with a solid understanding of IP networks. I am a proactive learner, eager to expand my
-  skills and experiences. I have demonstrated exceptional teamwork and responsibility, and
-  I am keen to contribute to innovative projects while absorbing knowledge from
-  experienced professionals.
+  Dynamic Cloud Engineer with a background in Telecommunications and a passion for Data Science,
+  Machine Learning, and DevOps. Proficient in Python and system management, with a solid foundation in IP
+  networking. Proactive and eager to expand skills, I excel in team collaboration and responsibility. Excited to
+  contribute to innovative projects and learn from experienced professionals while driving technological
+  advancement.
 
 professional_experience:
+  
+  - title: Cloud Engineer - Full Time Job
+    company: Avature S.R.L.
+    dates: Mar 2024 - Present
+    location: Río Cuarto, Córdoba, Argentina (Remote)
+    description: >
+      As a Cloud Engineer on Avature's Cloud Operations team, I'm tasked with
+      maintaining system infrastructure to ensure its continuous and reliable operation for both
+      internal and external clients. I handle case assignment, request resolution, and incident
+      management, collaborating closely with other teams and contributing to long-term
+      improvement projects.
+    skills: Cloud Services, Cloud Infrastructure, Linux, Troubleshooting, Puppet (Software),
+      Kubernetes, Amazon Web Services (AWS), Terraform, OpenStack, KVM.  
+  
   - title: MLOps Engineer - Professional Internship
     company: Universidad Nacional de Río Cuarto
     dates: Sep 2023 - Dec 2023
