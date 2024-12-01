@@ -4,7 +4,7 @@ Welcome to my downloads page! Here you can access my resume (CV) in PDF format. 
 
 ## Download CV
 
-- [Download my CV (PDF)](source/documents/engCV - Aguilera Conti Agustin.pdf){ .md-button .md-button--primary :target="_blank"}
+- [Download my CV (PDF)](source/engCV - Aguilera Conti Agustin.pdf){ .md-button .md-button--primary :target="_blank"}
 
 Feel free to contact me if you need any additional information or have questions regarding my work experience, skills, or projects.
 
