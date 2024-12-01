@@ -1,102 +1,70 @@
-## This is my resume
+# Agustín Aguilera - Cloud Engineer | MLOps | Telecommunications Engineer
 
-```yaml
-name: AGUILERA CONTI, AGUSTÍN
-email: mail@aagustinconti.com.ar
-website: https://aagustinconti.com.ar
-linkedin: https://linkedin.com/in/aagustinconti
+## Welcome to My Professional Portfolio
 
-summary: >
-  Dynamic Cloud Engineer with a background in Telecommunications and a passion for Data Science,
-  Machine Learning, and DevOps. Proficient in Python and system management, with a solid foundation in IP
-  networking. Proactive and eager to expand skills, I excel in team collaboration and responsibility. Excited to
-  contribute to innovative projects and learn from experienced professionals while driving technological
-  advancement.
+I'm a Cloud Engineer and Telecommunications Specialist with a passion for automating infrastructure and driving innovation in data science and machine learning. I leverage my skills in cloud computing, MLOps, and infrastructure automation to build reliable, scalable systems that solve complex business challenges.
 
-professional_experience:
-  
-  - title: Cloud Engineer - Full Time Job
-    company: Avature S.R.L.
-    dates: Mar 2024 - Present
-    location: Río Cuarto, Córdoba, Argentina (Remote)
-    description: >
-      As a Cloud Engineer on Avature's Cloud Operations team, I'm tasked with
-      maintaining system infrastructure to ensure its continuous and reliable operation for both
-      internal and external clients. I handle case assignment, request resolution, and incident
-      management, collaborating closely with other teams and contributing to long-term
-      improvement projects.
-    skills: Cloud Services, Cloud Infrastructure, Linux, Troubleshooting, Puppet (Software),
-      Kubernetes, Amazon Web Services (AWS), Terraform, OpenStack, KVM.  
-  
-  - title: MLOps Engineer - Professional Internship
-    company: Universidad Nacional de Río Cuarto
-    dates: Sep 2023 - Dec 2023
-    location: Río Cuarto, Córdoba, Argentina (Remote)
-    description: >
-      During my internship at GCID (Data Science Research Group), I am
-      responsible for deploying a platform for the development, training, and
-      implementation of machine learning models in cloud computing environments.
-      I work closely with the Data Science Research Group, exploring and
-      evaluating key MLOps technologies. My focus is on reusability,
-      reproducibility, and scalability, with the aim of efficiently implementing
-      MLOps practices in the university setting. From researching and selecting
-      open-source technologies to designing and implementing infrastructure,
-      developing pipelines, and integrating models, my work contributes to
-      advancing Machine Learning solutions for the university.
-    skills: Kubernetes, Agile Methodologies, Kubeflow, Vagrant, Terraform,
-      Ansible, GitHub
+[Download My CV](https://aagustinconti.com.ar/download) | [Contact Me](mailto:mail@aagustinconti.com.ar?subject=I%20want%20to%20contact%20you%20%7C%20aagustinconti.com.ar&body=Hi%20Agustin!%20I'm%20reaching%20you%20via%20your%20web-page.%20)
 
-tech_skills:
-  - DevOps Tools: Experienced in Unix/Linux command-line operations, TCP/IP
-    networking, and automation scripting (Python, Bash) for network and task
-    management.
-  - Containerization & Deployment: Proficiency in Docker for containerization,
-    ensuring efficient application deployment and system portability.
-  - API Development: Skilled in FastAPI for developing automated APIs,
-    facilitating seamless data integration with databases and external services.
-  - Machine Learning & Computer Vision: Practical experience with OpenCV, NumPy,
-    PyTorch, and TensorFlow for object detection, tracking, and model generation
-    and optimization.
-  - Monitoring and Control: Exposure to Mosquitto MQTT, WebSockets, Grafana,
-    and Flask for project monitoring and control.
+---
 
-experience:
-  - title: TCP/IP Applications Course Project
-    description: Utilized Mosquitto MQTT, WebSockets, Grafana, and Flask for
-      hydraulic pump monitoring and control.
-  - title: Digital Image Processing Course Project
-    description: Applied Docker, OpenCV, NumPy, and PyTorch for object detection,
-      tracking, and counting using YOLO.
-  - title: TCP/IP Applications Course Optimization Project
-    description: Configured MySQL database in a Docker container, accessed
-      through Python, used FastAPI for endpoint generation, querying, and
-      TensorFlow for model generation and optimization.
+## About Me
 
-education:
-  degree: Bachelor's Degree in Telecommunications Engineering
-  university: National University of Río Cuarto (UNRC)
-  dates: March 2017 - December 2023
-  specialization: Specialization in Data Services and Multimedia Systems, with a
-    focus on Radio Communications and Telecommunications.
+With a Bachelor's Degree in Telecommunications Engineering, my expertise spans across various domains of cloud infrastructure, automation, and MLOps. Currently, I work as a **Cloud Engineer** at **Avature**, focusing on cloud operations, automation, and infrastructure reliability. My passion lies in streamlining processes, optimizing cloud environments, and creating scalable solutions for data-driven projects.
 
-additional_education:
-  - "STECHS Company Seminar on Fixed Access Networks to the Internet - October
-    2022"
-  - "ITBA Data Analysis Course - October 2022"
-  - "Technical Considerations of Photography for Digital Image Processing
-    (GIDAT) - October 2022"
-  - Assistant in "Introduction to Python Language in Telecommunications Course"
-    (GIDAT) - April 2022
-  - "GNU/Linux Course for Engineering - National University of Rio Cuarto (UNRC)
-    - October 2021"
-  - "Basic Python Course - UNRC - November 2021"
+### Core Competencies:
+- **Cloud Engineering & Infrastructure**: Proficient in AWS, Terraform, Kubernetes, Puppet, and more.
+- **MLOps & Automation**: Focus on developing automated pipelines for machine learning models in cloud environments.
+- **Problem Solving**: Skilled in identifying bottlenecks and resolving complex infrastructure and application issues.
+- **Leadership & Collaboration**: I mentor new team members, provide training, and ensure efficient collaboration across teams.
+- **Process Optimization**: Focused on improving system efficiency, scalability, and security.
 
-languages:
-  Spanish: Native
-  English: B1
+---
 
-hobbies:
-  - Gym
-  - Socializing and spending quality time with friends
+## Featured Projects
 
-```
+### 1. **Cloud Infrastructure Automation with AWS & Terraform**
+   - Designed and deployed scalable infrastructure solutions using AWS and Terraform for a robust cloud environment, ensuring high availability and cost-efficiency.
+
+### 2. **MLOps Platform for Machine Learning Models**
+   - Implemented a platform for training, deploying, and scaling machine learning models in cloud environments, enabling better integration of AI into business workflows.
+
+### 3. **Kubernetes for Scalable Application Deployment**
+   - Managed Kubernetes clusters for containerized applications, automating deployment pipelines and ensuring system reliability.
+
+---
+
+## Why Work With Me?
+
+I thrive in dynamic environments, tackling complex technical challenges and finding innovative solutions. I am committed to delivering high-quality results while fostering collaboration and continuous learning.
+
+- **Efficient**: I approach each task with a focus on optimizing resources and achieving the best results.
+- **Collaborative**: I value teamwork and am always open to learning from others.
+- **Problem-Solver**: I excel in troubleshooting and resolving technical issues quickly and efficiently.
+
+---
+
+## Let's Connect!
+
+If you're interested in learning more about my work, discussing potential collaborations, or just having a conversation about cloud technologies, feel free to get in touch.
+
+[Contact Me](mailto:mail@aagustinconti.com.ar?subject=I%20want%20to%20contact%20you%20%7C%20aagustinconti.com.ar&body=Hi%20Agustin!%20I'm%20reaching%20you%20via%20your%20web-page.%20) | [LinkedIn](https://linkedin.com/in/aagustinconti)
+
+---
+
+## Skills
+
+- **Cloud Technologies**: AWS, Terraform, Kubernetes, Puppet, Docker
+- **MLOps**: Continuous integration & deployment for machine learning models
+- **Automation**: Bash scripting, Ansible, and CI/CD pipelines
+- **Programming**: Python, Bash
+- **Problem Solving**: Troubleshooting and system optimization
+- **Leadership**: Team mentoring, process improvements
+
+---
+
+## Get In Touch
+
+**Email**: [mail@aagustinconti.com.ar](mailto:mail@aagustinconti.com.ar)  
+**LinkedIn**: [linkedin.com/in/aagustinconti](https://linkedin.com/in/aagustinconti)  
+**GitHub**: [github.com/aagustinconti](https://github.com/aagustinconti)
